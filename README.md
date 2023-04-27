@@ -1,13 +1,13 @@
 # 👨‍💻 Challenge One - Codificador 5.
 ---
 
-<div style="text-align:center;margin:0auto">
+<center>
 	<img style="display:inline" src="https://raw.githubusercontent.com/sebassena/challengeonecodificador5/main/assets/demo.png" />
     <br />
 	<img style="display:inline" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img style="display:inline" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 	<img style="display:inline" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
+</center>
 
 <div align="center">
     <img src="https://www.aluracursos.com/assets/img/challenges/oracle-one/logo_oracleAlura-es.1657102612.svg" />
