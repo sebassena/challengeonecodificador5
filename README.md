@@ -1,7 +1,7 @@
 # 👨‍💻 Challenge One - Codificador 5.
 ---
 
-<div>
+<div style="text-align:center;margin:0auto">
 	<img style="display:inline" src="https://raw.githubusercontent.com/sebassena/challengeonecodificador5/main/assets/demo.png" />
     <br />
 	<img style="display:inline" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
