@@ -1,5 +1,4 @@
 # 👨‍💻 Challenge One - Codificador 5.
----
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sebassena/challengeonecodificador5/frontend/assets/demo.png"/>
